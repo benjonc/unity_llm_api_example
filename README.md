@@ -11,8 +11,8 @@
 --- 
 
 ### 已完成的API
-- [ChatGPT](./Examples/ChatGPT/README.md)   
-- [Whisper](.Examples/Whisper/README.md)   
+- [ChatGPT](./Assets/Examples/ChatGPT/README.md)   
+- [Whisper](./Assets/Examples/Whisper/README.md)   
 
 ---
 
@@ -26,6 +26,6 @@ This project is mainly used to record how to use large model APIs in Unity, incl
 --- 
 
 ### Completed API
-- [ChatGPT](./Examples/ChatGPT/README.md)   
-- [Whisper](./Examples/Whisper/README.md)    
+- [ChatGPT](./Assets/Examples/ChatGPT/README.md)   
+- [Whisper](./Assets/Examples/Whisper/README.md)    
 
