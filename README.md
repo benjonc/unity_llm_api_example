@@ -14,6 +14,8 @@
 - [ChatGPT](https://github.com/benjonc/unity_llm_api_example/blob/master/Assets/Examples/ChatGPT/README.md)   
 - [Whisper](https://github.com/benjonc/unity_llm_api_example/blob/master/Assets/Examples/Whisper/README.md)   
 
+---
+
 ## en
 ### description
 This project is mainly used to record how to use large model APIs in Unity, including: ChatGPT, Whisper, etc., and more APIs will be added later.
